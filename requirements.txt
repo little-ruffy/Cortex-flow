@@ -1,0 +1,13 @@
+instaloader
+linkedin-api
+streamlit
+openai
+ollama
+textstat
+sentence-transformers
+numpy
+scikit-learn
+python-dotenv
+pandas
+plotly
+rank_bm25
