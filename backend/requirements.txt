@@ -1,0 +1,33 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+httpx
+pydantic-settings
+tiktoken
+# For local models
+langchain-ollama
+# For document processing
+pypdf
+docx2txt
+python-docx
+beautifulsoup4
+# Embeddings & Reranking
+sentence-transformers
+torch
+transformers
+huggingface-hub
+accelerate
+langchain-huggingface
+rank_bm25
+
+# Style Analysis
+textstat
+textblob
+python-telegram-bot
+deep-translator

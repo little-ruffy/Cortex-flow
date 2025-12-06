@@ -1,0 +1,344 @@
+[
+    {
+        "timestamp": 1764965746.1251266,
+        "text": "Дайте определение гидрогеологического прогноза",
+        "source": "playground",
+        "result": {
+            "action": "ignore",
+            "classification": {
+                "type": "spam",
+                "priority": "low",
+                "category": "general"
+            }
+        }
+    },
+    {
+        "timestamp": 1764966065.5605693,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "playground",
+        "result": {
+            "action": "auto_reply",
+            "response": "Единообразие достигается соблюдением ГОСТ: геометрия не более 10 % отклонения, высота ≤ 2 м, безбарьерный каркас.",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Software"
+            }
+        }
+    },
+    {
+        "timestamp": 1764966124.9553807,
+        "text": "Какой тип исполнения стальных конструкций требуется при температуре -45°C?",
+        "source": "playground",
+        "result": {
+            "action": "ignore",
+            "classification": {
+                "type": "spam",
+                "priority": "low",
+                "category": "Construction"
+            }
+        }
+    },
+    {
+        "timestamp": 1764966297.1216319,
+        "text": "Что делать если есть проблема с регистрации здания на сайте? Ошибка Access Denied",
+        "source": "playground",
+        "result": {
+            "action": "escalate",
+            "classification": {
+                "type": "ticket",
+                "priority": "high",
+                "category": "Access"
+            }
+        }
+    },
+    {
+        "timestamp": 1764966981.6257844,
+        "text": "Что понимается под доступностью зданий и сооружений?",
+        "source": "playground",
+        "result": {
+            "action": "auto_reply",
+            "response": "Доступность зданий обеспечивает свободный доступ маломобильным: открытый вход, плавные переходы, отсутствие препятствий, рампы, лифты.",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Access"
+            }
+        }
+    },
+    {
+        "timestamp": 1764967232.6160264,
+        "text": "Какова минимальная ширина выходов для помещений с МГН?",
+        "source": "playground",
+        "result": {
+            "action": "auto_reply",
+            "response": "Минимальная ширина выходов для помещений с МГН – 1,2 м (по нормам СНиП 2.04.02‑99).",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Compliance"
+            }
+        }
+    },
+    {
+        "id": "a53bb663-d0f6-4bcc-bbac-886f6143abb5",
+        "timestamp": 1764987553.0930855,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "ignore",
+            "classification": {
+                "type": "spam",
+                "priority": "low",
+                "category": "city planning"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "7a540a12-ea85-40d0-824f-3c30fd181737",
+        "timestamp": 1764987585.2964964,
+        "text": "Какова минимальная ширина выходов для помещений с МГН?",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Минимальная ширина выходов для помещений с МГН должна быть не менее 1,2 м по ГОСТу 12.1.011‑2001.",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Access"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "49e480ba-9962-4c0d-be2a-d75f27a5cee3",
+        "timestamp": 1764987712.5394244,
+        "text": "Какой тип исполнения стальных конструкций требуется при температуре -45°C?",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "При –45 °C требуется исполнение «северное А».",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Construction"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "0662abeb-05c6-4b67-9b63-f9c8499e07eb",
+        "timestamp": 1764987755.70493,
+        "text": "Дайте определение гидрогеологического прогноза",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Гидрогеологический прогноз – комплекс расчётов, оценивающих изменение гидрогеологических условий, вызванных строительством.",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Hydrogeology"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "da7d4624-0b66-4fc2-a741-402c3dfbb6b6",
+        "timestamp": 1764987798.5416973,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Единообразие достигается стандартизацией параметров: геометрия элементов ограничена отклонением не более 10 %, а материалы и цветовые схемы унифицированы.",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "Urban Planning"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "790ce96a-d602-4e1f-a453-d4dd238df87c",
+        "timestamp": 1764987842.115164,
+        "text": "Привет!",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Привет! Чем могу помочь?",
+            "sources": [],
+            "classification": {
+                "type": "faq",
+                "priority": "low",
+                "category": "General"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "0c2070e1-d278-4965-8a1c-e23e0be9e754",
+        "timestamp": 1764987942.3048298,
+        "text": "Привет решишь математическую задачу?",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "ignore",
+            "classification": {
+                "type": "spam",
+                "priority": "low",
+                "category": "General Inquiry"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "74e9a127-c4a8-48ac-a1fa-dd52a4e007eb",
+        "timestamp": 1764987961.1733985,
+        "text": "Что делать если есть проблема с регистрации здания на сайте? Ошибка Access Denied",
+        "source": "playground",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "escalate",
+            "classification": {
+                "type": "ticket",
+                "priority": "medium",
+                "category": "Access"
+            }
+        },
+        "rating": null
+    },
+    {
+        "id": "aa1d7de8-cc24-4664-8abc-b11145574816",
+        "timestamp": 1764988160.8254397,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "telegram",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "reply",
+            "response": "В МГН соблюдаются единые стандарты: элементы должны совпадать, а геометрические отличия – не более 10 %."
+        },
+        "rating": null
+    },
+    {
+        "id": "79f21cf5-4430-4516-9281-b3caa3f45abc",
+        "timestamp": 1764988342.7248657,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "telegram",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Единообразие достигается стандартизацией размещения: геометрические характеристики элементов могут различаться не более чем на 10 %."
+        },
+        "rating": null
+    },
+    {
+        "id": "f093dd80-cdca-4dbb-824a-9ab29dd28b18",
+        "timestamp": 1764988397.8724525,
+        "text": "Привет решишь математическую задачу?",
+        "source": "telegram",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Конечно, готов помочь с решением задачи. Пожалуйста, уточните её детали."
+        },
+        "rating": null
+    },
+    {
+        "id": "4ab7a1a0-d367-4a3a-b278-0f3716aa68d3",
+        "timestamp": 1764988547.484889,
+        "text": "Subject: Мы обновим наши условия использования и правила и введем Основы конфиденциальности.",
+        "source": "email",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Откройте письмо в браузере; если не видно, проверьте настройки клиента по ГОСТ. Подробности в руководстве поставщика услуг."
+        },
+        "rating": null
+    },
+    {
+        "id": "b5cac263-fe1e-4862-892b-d0ac7d79a6c5",
+        "timestamp": 1764989295.2965565,
+        "text": "Как обеспечивается единообразие элементов городской среды для МГН?",
+        "source": "telegram",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Единообразие обеспечивается, если геометрические характеристики элементов отличаются не более 10 % и высота не менее 1 м."
+        },
+        "rating": null
+    },
+    {
+        "id": "dc304be1-03c5-4e65-9276-9b6e9f7dfee6",
+        "timestamp": 1764989347.6490216,
+        "text": "Что делать если есть проблема с регистрации здания на сайте? Ошибка Access Denied",
+        "source": "telegram",
+        "contact_info": {
+            "chat_id": 7850619074
+        },
+        "translations": {
+            "en": "What to do if there is a problem with registering a building on the site? Access Denied error",
+            "ru": "Что делать если есть проблема с регистрации здания на сайте? Ошибка Access Denied",
+            "kk": "Егер сайтта ғимаратты тіркеу кезінде проблема болса, не істеу керек? Қателікке кіру қатесі"
+        },
+        "status": "resolved",
+        "result": {
+            "action": "operator_reply",
+            "response": "поднимите тикет у вашего провайдера"
+        },
+        "rating": null
+    },
+    {
+        "id": "788e9ca3-3448-4759-9180-885466660797",
+        "timestamp": 1764990837.6307323,
+        "text": "Что понимается под доступностью зданий и сооружений?",
+        "source": "telegram",
+        "contact_info": null,
+        "translations": null,
+        "status": "resolved",
+        "result": {
+            "action": "auto_reply",
+            "response": "Доступность зданий и сооружений – обеспечение свободного и безопасного доступа для всех категорий пользователей, включая людей с ограниченными возможностями."
+        },
+        "rating": null
+    }
+]
